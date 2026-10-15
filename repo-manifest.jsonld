@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/s3-credentials/commit/4611f333407d2428b2e21771469e34fd52a5165d",
       "git:hexsha": "4611f333407d2428b2e21771469e34fd52a5165d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/simonw/s3-credentials/commit/693179d74abb12f8b0804dad7d1f948f1ef6ccc3",
