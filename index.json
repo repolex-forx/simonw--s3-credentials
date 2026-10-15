@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "s3-credentials",
+  "versions": [
+    {
+      "commit": "4611f333407d2428b2e21771469e34fd52a5165d",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:08:36.193804+00:00"
+    }
+  ]
+}
